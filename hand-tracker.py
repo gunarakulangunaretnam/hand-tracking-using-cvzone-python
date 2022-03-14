@@ -31,8 +31,8 @@ while True:
             fingers2 = detector.fingersUp(hand2)
 
             # Find Distance between two Landmarks. Could be same hand or different hands
-            length, info, img = detector.findDistance(lmList1[8], lmList2[8], img)  # with draw
-            # length, info = detector.findDistance(lmList1[8], lmList2[8])  # with draw
+            #length, info, img = detector.findDistance(lmList1[8], lmList2[8], img)  # with draw
+            #length, info = detector.findDistance(lmList1[8], lmList2[8])  # with draw
     # Display
     cv2.imshow("Image", img)
     cv2.waitKey(1)

@@ -1,16 +1,13 @@
-# Face Detection with CVZONE
+# Hand Tracker with CVZONE
 
 ## Introduction
 
-A computer vision prototype to detect faces in a video sequences, this application is used to detect human faces.
+A computer vision prototype to track left and right hands of human in a video sequences. This hand tracking prototype could be used to build many computer vision applications.
 
-Face detection is a computer vision technology being used in a variety of applications that needs to detect human faces in digital images.
-
-Face detection and face recognition are different subjects. Face detection is the process of locating human faces in digital images, whereas the face recognition is identifying the face of a human, this is a sample application of face detection.
 
 ## Features
-- Detect human faces.
-- Point the center region of human faces.
+- Track hands of human.
+- Calculate distance in key point.
 
 
 ## Technologies & Frameworks
@@ -18,11 +15,28 @@ Face detection and face recognition are different subjects. Face detection is th
 - Python 3.8
 - OpenCV
 - CVzone
+- MediaPipe
+
+## Hand Key points
+
+![](github-readme-content/hand.png)
 
 ## What is CVZONE?
 
 CVzone is the main Framework that is used in this prototype, it is a computer vision package that makes us easy to run like face detection, hand tracking, pose estimation, etc., and also image processing and other AI functions.
 
+## What is MediaPipe?
+
+MediaPipe is a framework mainly used for building audio, video, or any time series data. With the help of the MediaPipe framework, we can build very impressive pipelines for different media processing functions.
+
+- Multi-hand Tracking
+- Face Detection
+- Object Detection and Tracking
+- Objectron: 3D Object Detection and Tracking
+- AutoFlip: Automatic video cropping pipeline etc.
+
+
+**Note:** This application is using cvzone as a main framework, MediaPipe will be installed while installing cvzone.
 
 ## Configuration and Setup
 
