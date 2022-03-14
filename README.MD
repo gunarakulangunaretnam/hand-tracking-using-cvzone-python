@@ -17,7 +17,7 @@ A computer vision prototype to track left and right hands of human in a video se
 - CVzone
 - MediaPipe
 
-## Hand Key points
+## Hand Keypoints
 
 ![](github-readme-content/hand.png)
 
