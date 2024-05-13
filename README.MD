@@ -1,13 +1,13 @@
-# Hand Tracking using CVZone Python
+# Hand Tracking using CV Zone Python
 
 ## Introduction
 
-A computer vision prototype to track left and right hands of human in a video sequences. This hand tracking prototype could be used to build many computer vision applications.
+A computer vision prototype to track the left and right hands of humans in video sequences. This hand-tracking prototype could be used to build many computer vision applications.
 
 
 ## Features
-- Track hands of human.
-- Calculate distance in key point.
+- Track the hands of humans.
+- Calculate the distance in key point.
 
 
 ## Technologies & Frameworks
