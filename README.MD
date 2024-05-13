@@ -1,4 +1,4 @@
-# Hand Tracker with CVZONE
+# Hand Tracking using CVZone Python
 
 ## Introduction
 
