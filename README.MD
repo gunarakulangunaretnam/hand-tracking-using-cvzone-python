@@ -1,4 +1,4 @@
-# HAND TRACKING USING CV ZONE PYTHON
+# Hand Tracking Using CVZone Python
 
 ## Introduction
 
@@ -66,7 +66,7 @@ Python is the main programming language of this prototype, OpenCV and CVzone are
 
 ![](github-readme-content/demo.gif)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
